@@ -746,8 +746,23 @@ section {
   margin-top: 0;
   color: #6c757d;
 }
-.post-preview .post-meta h5 {
+.post-preview a .post-titleJa {
+  font-size: 1.875rem;
+  font-weight: 600; 
+  font-family: "Sawarabi Gothic";
+  margin-top: 1.875rem;
+  margin-bottom: 0.625rem;
+  color: #212529;
+}
+.post-preview .post-subtitleJa {
+  font-weight: 300;
+  font-family: "Sawarabi Gothic";
+  margin-bottom: 0.625rem;
+  color: #212529;
+}
+.post-preview .post-metaJa {
   font-size: 1.125rem;
+  font-family: "Sawarabi Gothic";
   margin-top: 0;
   color: #6c757d;
 }
