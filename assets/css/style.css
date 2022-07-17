@@ -722,14 +722,14 @@ section {
 # Portfolio lists
 --------------------------------------------------------------*/
 
-.portfolio a {
+.post-preview a {
   color: #212529;
 }
-.portfolio a:focus, .portfolio a:hover {
+.post-preview a:focus, .portfolio a:hover {
   text-decoration: none;
   color: #0085A1;
 }
-.portfolio a .post-title {
+.post-preview a .post-title {
   font-size: 1.875rem;
   font-style: italic;
   margin-top: 1.875rem;
@@ -745,8 +745,10 @@ section {
   margin-top: 0;
   color: #6c757d;
 }
-.post-preview .post-meta > a {
-  text-decoration: none;
+.post-preview .post-meta h5 {
+  font-size: 1.125rem;
+  margin-top: 0;
+  color: #6c757d;
 }
 @media (min-width: 992px) {
   .post-preview a .post-title {
