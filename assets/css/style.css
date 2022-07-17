@@ -718,23 +718,23 @@ section {
 # Portfolio lists
 --------------------------------------------------------------*/
 
-.post-preview > a > .post-title {
+.portfolio a .post-title {
   font-size: 1.875rem;
   font-style: italic;
   margin-top: 1.875rem;
   margin-bottom: 0.625rem;
 }
-.post-preview > a > .post-subtitle {
+.portfolio a .post-subtitle {
   font-weight: 300;
   margin-bottom: 0.625rem;
 }
-.post-preview > .post-meta {
+.portfolio .post-meta {
   font-size: 1.125rem;
   font-style: italic;
   margin-top: 0;
   color: #6c757d;
 }
-.post-preview > .post-meta > a {
+.portfolio .post-meta a {
   text-decoration: none;
 }
 
