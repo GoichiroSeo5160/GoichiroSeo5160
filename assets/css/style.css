@@ -722,14 +722,14 @@ section {
 # Portfolio lists
 --------------------------------------------------------------*/
 
-.post-preview > a {
+.portfolio > a {
   color: #212529;
 }
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
   color: #0085A1;
 }
-.post-preview > a > .post-title {
+.portfolio > a > .post-title {
   font-size: 1.875rem;
   margin-top: 1.875rem;
   margin-bottom: 0.625rem;
