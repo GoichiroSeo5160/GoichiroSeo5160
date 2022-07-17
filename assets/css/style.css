@@ -563,6 +563,10 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+    font-size: 1.875rem;
+  margin-top: 1.875rem;
+  margin-bottom: 0.625rem;
+  color: #6c757d;
 }
 
 .portfolio #portfolio-flters {
@@ -722,6 +726,7 @@ section {
   font-size: 1.875rem;
   margin-top: 1.875rem;
   margin-bottom: 0.625rem;
+  color: #6c757d;
 }
 .portfolio a .post-subtitle {
   font-weight: 300;
