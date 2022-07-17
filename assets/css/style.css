@@ -720,6 +720,7 @@ section {
 
 .post-preview > a > .post-title {
   font-size: 1.875rem;
+  font-style: italic;
   margin-top: 1.875rem;
   margin-bottom: 0.625rem;
 }
