@@ -395,11 +395,11 @@ section {
 
 .about .content ul {
   list-style: none;
-  padding: 0;
+  padding-left: 10px;
 }
 
 .about .content ul li {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
 }
@@ -413,6 +413,13 @@ section {
   margin-right: 5px;
   color: #0563bb;
   line-height: 0;
+}
+
+.about .content li {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  list-style: none;
 }
 
 .about .content p:last-child {
